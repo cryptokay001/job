@@ -14,8 +14,7 @@ body{
 }
 .textarea{
   padding-top: 5px;
-  
-  
+  width: 40px;
     
 }
 .nametag{
@@ -23,11 +22,31 @@ body{
     
 }
 #submitme{
-    background-color: aquamarine;
-    border-color: aquamarine;
-    width: 35%;
+    color: white;
+    background-color: green;
+    border-color: green;
+    width: 95%;
 
 }
 #checkbox{
     margin-left: 10px;
+}
+.bottomtexts{
+    background-color: rgba(0, 255, 255, 0.048);
+    padding-top: px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    color: green;
+
+}
+#heading{
+    color: green;
+    font-size: 3rem;
+    font-weight: 200;
+    
+
+}
+.chromeo{
+    
+    height:10mm ;
 }
